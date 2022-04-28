@@ -1,0 +1,124 @@
+body {
+  text-align: center;
+  margin: 0px;
+  font-size: 17px;
+  color: #40514E;
+}
+.header {
+  background-color: #E4F9F5;
+  height: 100%;
+  padding-bottom: 10px;
+}
+h1{
+  display: inline-block;
+  margin: 0px;
+  margin-top: 10%;
+  color: #11999E;
+}
+img {
+  background-color: #E4F9F5;
+}
+#bottom-cloud {
+  position: absolute;
+}
+#top-cloud {
+  position: absolute;
+  top: 60px;
+  right: 300px;
+}
+span {
+  text-decoration: underline;
+}
+body {
+  font-family: 'Merriweather', serif;
+}
+h1 {
+  font-family: 'Kalam', cursive;
+  font-size: 3.9rem;
+}
+#programmer {
+  font-family: 'Courgette', cursive;
+  font-size: 1.4rem;
+  margin: 0;
+  color: #40514E;
+  font-weight: normal;
+}
+h2 {
+    font-weight: normal;
+    color: #66BFBF
+}
+.python {
+  float: left;
+  width: 25%;
+  margin-right: 20px;
+}
+#profile-pic {
+  margin-top: 10px;
+  width: 25%;
+  border-radius: 100%;
+}
+.cube-logo {
+  float: right;
+  margin-top: 10px;
+  border-radius: 100%;
+  width: 25%;
+  margin-left: 20px;
+}
+h3 {
+  color: #11999E;
+}
+.skill-row{
+  display: inline-block;
+  width: 50%;
+  text-align: left;;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.bottom-container {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-top: 30px;
+  background-color: #66BFBF;
+}
+.copyright {
+  margin-bottom: 0;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+a {
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: white;
+}
