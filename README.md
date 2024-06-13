@@ -20,7 +20,7 @@ Welcome to the repository for my personal website. This site showcases my skills
 To view this website locally on your machine, clone this repository using the following command:
 
 ```sh
-git clone https://github.com/your-github-username/your-repository-name.git
+git clone https://github.com/ajaykumarn3000/personal-site.git
 ```
 After cloning, you can open the index.html file in your browser to view the website.
 
